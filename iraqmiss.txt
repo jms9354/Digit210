@@ -1,0 +1,133 @@
+</item>
+<item>FILE FROM FYEO 
+</item>
+<item>COPYRIGHT (c)  
+ TIGER PUBLICATIONS</item>
+<item>POST OFFICE BOX 
+ AMARILLO TX 
+</item>
+<item>SUBSCRIPTIONS $
+ (US, Canada, APO, FPO)</item>
+<item>PER YEAR UNTIL 
+ Oct 
+ $
+ Thereafter</item>
+<item>OVERSEAS ASK MILITARY-RT FOR RATES</item>
+<item></item>
+<item>IRAQ'S MISSILES</item>
+<item>     Iraq has bought or developed an impressive array of tactical </item>
+<item>and medium-range ballistic missiles. These include:</item>
+<item>  *  Al-Abid: Tested in Dec 
+ as a satellite launcher. Would </item>
+<item>have a range of 
+,
+km (
+,
+ miles) if used in a surface-to-</item>
+<item>surface mode. It is a three-stage missile weighing 
+ tons. The </item>
+<item>first stage has a cluster of five (Scud?) engines with a combined </item>
+<item>thrust of 
+ tons. </item>
+<item>  *  Tammuz: Possibly another version (or use) of the Al-Abid. Has </item>
+<item>a range of 
+,
+km (
+,
+ miles). Was tested in Dec 
+. </item>
+<item>Warhead could be 
+-
+,
+ pounds.</item>
+<item>  *  Condor-II: Developed jointly with Egypt and Argentina. It </item>
+<item>would have had a range of 
+km (
+ miles) and carried a 
+,
+-</item>
+<item>pound warhead, but the project was derailed by US diplomatic </item>
+<item>More : <Y>es/<N>o ?</item>
+<item>pressure. Iraq, which viewed Condor as only one of several </item>
+<item>programs, appears to have allowed it to drop while using much of </item>
+<item>the German and Italian technology in the Fahd. </item>
+<item>  *  Al-Husayn: A modified version of the Soviet Scud rocket. The </item>
+<item>Iraqis took three Scuds, removed the fuel tanks from one and cut </item>
+<item>them in half, then used the sections to lengthen the fuel tanks of </item>
+<item>the other two Scuds (increasing fuel from 
+ to 
+ tons). This gave </item>
+<item>them the 
+km (
+ mile) range to reach Teheran, although the </item>
+<item>warhead was reduced to as little as 
+ pounds. [When it first </item>
+<item>appeared, the Al-Husayn raised questions about the INF treaty </item>
+<item>(which left Soviet Scuds in Europe as legal short-range missiles). </item>
+<item>It was thought that the range increase had been achieved by less </item>
+<item>extensive modifications and that the Soviets could evade the </item>
+<item>treaty with similar modifications. The US is now satisfied that the </item>
+<item>modifications are impossible to hide.] Reports that this missile </item>
+<item>used strap-on boosters are now known to have been only </item>
+<item>speculation on the part of Western analysts. The Al-Husayn is </item>
+<item>horribly inaccurate, with a CEP of (i.e. a 
+% chance of landing </item>
+<item>within) 
+,
+m of its target. It is strongly suspected that Iraq can </item>
+<item>now manufacture the entire Al-Husayn. </item>
+<item>  *  Al-Abbas: This missile, an upgraded version of Al-Husayn built </item>
+<item>in Iraq, has been flight tested. It has a range of 
+km (
+ </item>
+<item>miles), more than enough to reach Israel. The improved range </item>
+<item>More : <Y>es/<N>o ?</item>
+<item>does not bring more Iranian cities within striking distance, but </item>
+<item>does allow the missile to be launched from most of Iraq, rather </item>
+<item>than the limited area north of Al Amarah where most Al-Husayns </item>
+<item>were launched. The small 
+-pound warhead would be little more </item>
+<item>than a nuisance (beyond the city block it fell into) unless it was </item>
+<item>equipped with a chemical charge. It is reportedly much more </item>
+<item>accurate than the older Al-Husayn, with a CEP of only 
+m.</item>
+<item>  *  Fahd: Originally begun as Project 
+, Fahd is a solid-fuel </item>
+<item>family of missiles. One variant has a range of 
+km, another of </item>
+<item>
+km+. They will eventually replace Al-Husayn.</item>
+<item>  *  SS-
+: A Brazilian missile with a range of only 
+ miles but a </item>
+<item>huge 
+,
+-pound warhead, enough to do serious military </item>
+<item>damage. Brazil has tested the engines of this missile; Iraq has </item>
+<item>them on order.</item>
+<item>  *  Scud-B: A Soviet free-flight bombardment missile with a range </item>
+<item>of 
+ miles and a 
+,
+-pound warhead. While the Iraqis have </item>
+<item>these, they are primarily used as a source of parts and </item>
+<item>technology for the improved Al-Husayn. </item>
+<item>  *  Frog-
+: A Soviet artillery bombardment weapon with a range of </item>
+<item>only 
+ miles and a payload of 
+,
+ pounds. Huge numbers of </item>
+<item>an improved version (range 
+km), built locally as the Laith, were </item>
+<item>fired at Iranian forces and border towns during the war. Iraq is </item>
+<item>developing a chemical warhead for the Laith. </item>
+<item>More : <Y>es/<N>o ?</item>
+<item>  *  Ababil: A family of artillery rockets based on the Yugoslav </item>
+<item>M
+ design. There are 
+km and 
+km versions.</item>
+<item>END OF FILE</item>
+<item></item>
+<item>
